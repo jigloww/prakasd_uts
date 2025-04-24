@@ -1,7 +1,6 @@
-import java.util.Calendar;
 import java.util.Scanner;
 
-public class Main {
+public class Main09 {
     static void selectionNIDN(Dosen09[] dosens) {     // Selection Sort - ascending
         for (int i = 0; i < dosens.length - 1; i++) {
             int minIdx = i;
